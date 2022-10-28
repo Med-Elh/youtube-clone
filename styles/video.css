@@ -87,3 +87,19 @@
   color: rgb(60, 34, 61);
   font-size: 22px;
 }
+@media (orientation:portrait){
+  .copyrights{
+    margin-top:200px;
+    margin-left: 140px;
+    margin-bottom: 20px;
+    color: rgb(60, 34, 61);
+    font-size: 10px;
+  }
+}
+
+.background-img{
+  background-image: url('.thumbnails/patternpad1.svg');
+  background-size: contain;
+  width: 200px;
+  height: 200px;
+}
