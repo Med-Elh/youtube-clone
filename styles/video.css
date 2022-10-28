@@ -53,7 +53,7 @@
   position: relative;
 }
 .video-time,.video-time2,.video-time3,
-.video-time4,.video-time5,.video-time6{
+.video-time4,.video-time5,.video-time6,.video-time7{
   background-color: black;
   color: white;
   position: absolute;
@@ -79,4 +79,11 @@
   .video-grid{
     grid-template-columns: 1fr 1fr 1fr 1fr;
   }
+}
+.copyrights{
+  margin-top:150px;
+  margin-left: 440px;
+  margin-bottom: 20px;
+  color: rgb(60, 34, 61);
+  font-size: 22px;
 }
